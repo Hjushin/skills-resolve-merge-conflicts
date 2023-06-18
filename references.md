@@ -1,3 +1,2 @@
-# References
+Let's create an avoidable conflict!
 
-* octocat 1 😈
